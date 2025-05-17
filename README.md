@@ -6,17 +6,17 @@
 
   <h3>Features</h3>
   <ol>
-      <il>Create new todo items (POST /todos)</il>
-      <il>List all todo items (GET /todos)</il>
-      <il>Update existing todo items (PUT /todos/:id)</il>
-      <il>Delete todo items (DELETE /todos/:id)</il>
+      <p>Create new todo items (POST /todos)</p>
+      <p>List all todo items (GET /todos)</p>
+      <p>Update existing todo items (PUT /todos/:id)</p>
+      <p>Delete todo items (DELETE /todos/:id)</p>
   </ol>
 
   <h3>Technologies</h3>
   <ol>
-      <il>Node.js and Express for the server</il>
-      <il>MongoDB for data storage</il>
-      <il>UMongoose as ODM (Object Document Mapper)</il>
-      <il>Docker for containerization</il>
+      <p>Node.js and Express for the server</p>
+      <p>MongoDB for data storage</p>
+      <p>UMongoose as ODM (Object Document Mapper)</p>
+      <p>Docker for containerization</p>
   </ol>
 </html>
