@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const uri = process.env.MONGO_URL || 'mongodb://localhost:27017/todo-app';
 
+//async function to connect to MongoDB
 const connectDB = async () => 
 {
   try 
